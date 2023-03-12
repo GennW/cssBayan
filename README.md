@@ -1,2 +1,2 @@
-# rsschool-cv
-https://GennW.github.io/rsschool-cv/
+
+https://GennW.github.io/cssBayan/cssBayan/index.html
